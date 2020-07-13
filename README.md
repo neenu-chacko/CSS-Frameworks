@@ -55,9 +55,9 @@ Some cool CSS I've come across
 
 ![](hint.gif)
 
-## 14. [css.gg](https://css.gg/): Open-source CSS, SVG and Figma UI Icons
+## 14. [ CSS SHAKE ](https://elrumordelaluz.github.io/csshake/) : Some CSS classes to move your DOM!
+![](shake.gif)
 
-![Screen Shot 2020-07-13 at 10 09 48 PM](https://user-images.githubusercontent.com/45137335/87330066-a2a78100-c555-11ea-8b2f-cd1ce0c7483c.png)
 
 ## 15. [98.css](https://jdan.github.io/98.css/): A design system for building faithful recreations of old UIs
 
@@ -67,8 +67,9 @@ Some cool CSS I've come across
 
 ![Screen Shot 2020-07-13 at 4 00 00 PM](https://user-images.githubusercontent.com/45137335/87294877-01530780-c522-11ea-8cb3-c66ba7323f9e.png)
 
-## 17. [ CSS SHAKE ](https://elrumordelaluz.github.io/csshake/) : Some CSS classes to move your DOM!
-![](shake.gif)
+## 17. [css.gg](https://css.gg/): Open-source CSS, SVG and Figma UI Icons
+
+![Screen Shot 2020-07-13 at 10 09 48 PM](https://user-images.githubusercontent.com/45137335/87330066-a2a78100-c555-11ea-8b2f-cd1ce0c7483c.png)
 
 
 
