@@ -32,6 +32,7 @@ Some cool CSS I've come across
 --> [Github Link](https://github.com/tobiasahlin/SpinKit)
 
 <ivdem add a bideo>
+
 ## 9. [Effeckt.css](https://h5bp.org/Effeckt.css/): Some transitions
 <hehehehe again>
 
@@ -62,8 +63,9 @@ Some cool CSS I've come across
 
 ![Screen Shot 2020-07-13 at 4 04 28 PM](https://user-images.githubusercontent.com/45137335/87295259-8fc78900-c522-11ea-87c5-459da0962ca7.png)
 
-## 17. [voxel.css]():  A lightweight 3D CSS voxel library.
-< add gif >
+## 17. [voxel.css](http://voxelcss.com/):  A lightweight 3D CSS voxel library.
+
+<add gif>
 
 ## 18. [Markdown.css](https://mrcoles.com/demo/markdown-css/): CSS for making regular HTML look like plain-text markdown.
 
