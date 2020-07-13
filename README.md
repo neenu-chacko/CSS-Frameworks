@@ -2,17 +2,14 @@
 Some cool CSS I've come across
 
 ## 1. [Paper CSS](https://www.getpapercss.com/): For Simple UI
-
-![Screen Shot 2020-07-13 at 10 36 43 AM](https://user-images.githubusercontent.com/45137335/87272823-fdf55700-c4f4-11ea-9f84-f9e867c28df7.png)
-
+<img src="https://user-images.githubusercontent.com/45137335/87272823-fdf55700-c4f4-11ea-9f84-f9e867c28df7.png" width="600px" height="auto"/>
 
 ## 2. [RPGUI](http://ronenness.github.io/RPGUI/): The GameArt UI
-
-![Screen Shot 2020-07-13 at 11 30 56 AM](https://user-images.githubusercontent.com/45137335/87275770-76134b00-c4fc-11ea-95af-c62ce0897cf8.png)
+<img src="https://user-images.githubusercontent.com/45137335/87275770-76134b00-c4fc-11ea-95af-c62ce0897cf8.png" width="600px" height="auto"/>
 
 ## 3. [Block CSS](https://thesephist.github.io/blocks.css/) : For that blockiness in your UI
 
-![Screen Shot 2020-07-13 at 2 54 26 PM](https://user-images.githubusercontent.com/45137335/87288302-cbf5ec00-c518-11ea-9673-e1e0dd377562.png)
+<img src="https://user-images.githubusercontent.com/45137335/87288302-cbf5ec00-c518-11ea-9673-e1e0dd377562.png" width="600px" height="auto"/>
 
 ## 4. [NES.css](https://nostalgic-css.github.io/NES.css/): The Nostalgic,Retro CSS
 
@@ -43,7 +40,7 @@ Some cool CSS I've come across
 
 ## 11. [Primer CSS](https://primer.style/)
 
-![Screen Shot 2020-07-13 at 12 07 54 PM](https://user-images.githubusercontent.com/45137335/87278758-d907e080-c502-11ea-8c28-86cbbcf267f9.png)
+<img src="https://user-images.githubusercontent.com/45137335/87278758-d907e080-c502-11ea-8c28-86cbbcf267f9.png" width="600px" height="auto"/>
 
 ## 12. [Hint.css](https://kushagra.dev/lab/hint/): For Tooltips
 
