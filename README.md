@@ -96,7 +96,7 @@ Some cool CSS I've come across
 
 5.[Imagehover.css](http://imagehover.io/): Pure CSS Image Hover Effect Library
 
-6.[Crayon.css](https://riccardoscalco.it/crayon/): 
+6.[Crayon.css](https://riccardoscalco.it/crayon/): list of css variables linking color names to hexadecimal values, usable with postCSS or with your favourite CSS preprocessor
 
 7.[Pushy Buttons](https://iraul.github.io/pushy-buttons/):A small CSS Pressable Buttons library.
 
