@@ -13,6 +13,7 @@ Some cool CSS I've come across
 ## 3. [Block CSS](https://thesephist.github.io/blocks.css/) : For that blockiness in your UI
 
 
+
 ## 4. [NES.css](https://nostalgic-css.github.io/NES.css/): The Nostalgic,Retro CSS
 
 ![Screen Shot 2020-07-13 at 10 54 19 AM](https://user-images.githubusercontent.com/45137335/87273620-3eee6b00-c4f7-11ea-977d-f3cd863803f6.png)
@@ -34,3 +35,13 @@ Some cool CSS I've come across
 --> [Github Link](https://github.com/tobiasahlin/SpinKit)
 
 < ivdem add a bideo>
+## 9. [Effeckt.css](https://h5bp.org/Effeckt.css/): Some transitions
+<hehehehe again>
+
+## 10. [Loaders.css](https://connoratherton.com/loaders): Delightful and performance-focused pure css loading animations.
+< aa pacman last session gif aakkam>
+
+## 11. [Primer CSS](https://primer.style/)
+
+![Screen Shot 2020-07-13 at 12 07 54 PM](https://user-images.githubusercontent.com/45137335/87278758-d907e080-c502-11ea-8c28-86cbbcf267f9.png)
+
