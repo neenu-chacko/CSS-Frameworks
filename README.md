@@ -22,7 +22,15 @@ Some cool CSS I've come across
 ![tumblr_pj4bfdHkMz1qzlt3uo2_r1_500](https://user-images.githubusercontent.com/45137335/87273888-e8356100-c4f7-11ea-919b-0929bab949ae.png)
 
 ## 6. [Hover.css](http://ianlunn.github.io/Hover/): For Hover Transitions
+--> [Github Link](https://github.com/IanLunn/Hover)
 
 <Add a example GIF here rama>
   
-## 7.   
+## 7. [Animate.css](https://animate.style/): Just Animate Stuff
+
+<Ivdem add the GIF Kutta>
+  
+## 8. [SpinKit](https://tobiasahlin.com/spinkit/): For some cool loading pages  
+--> [Github Link](https://github.com/tobiasahlin/SpinKit)
+
+< ivdem add a bideo>
