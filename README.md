@@ -13,7 +13,8 @@ Some cool CSS I've come across
 
 ## 4. [NES.css](https://nostalgic-css.github.io/NES.css/): The Nostalgic,Retro CSS
 
-![Screen Shot 2020-07-13 at 10 54 19 AM](https://user-images.githubusercontent.com/45137335/87273620-3eee6b00-c4f7-11ea-977d-f3cd863803f6.png)
+![Screen Shot 2020-07-13 at 9 11 39 PM](https://user-images.githubusercontent.com/45137335/87324567-e5fdf180-c54d-11ea-9cbd-07d5c57a25fc.png)
+
 
 ##  5. [PSone.css](https://micah5.github.io/PSone.css/): Playstation 1 Style CSS, Inspired from NES.css
 
@@ -92,11 +93,15 @@ Some cool CSS I've come across
 
 3.[Icono](https://saeedalipoor.github.io/icono/): Pure CSS Icons
 
+![Screen Shot 2020-07-13 at 9 16 52 PM](https://user-images.githubusercontent.com/45137335/87324777-3a08d600-c54e-11ea-8ffb-17f9480e959f.png)
+
 4.[Instagram.css](https://picturepan2.github.io/instagram.css/) - Complete set of Instagram filters in pure CSS
+
+![Screen Shot 2020-07-13 at 9 16 34 PM](https://user-images.githubusercontent.com/45137335/87324834-4e4cd300-c54e-11ea-8694-2966637b65c7.png)
 
 5.[Imagehover.css](http://imagehover.io/): Pure CSS Image Hover Effect Library
 
-6.[Crayon.css](https://riccardoscalco.it/crayon/): list of css variables linking color names to hexadecimal values, usable with postCSS or with your favourite CSS preprocessor
+6.[Crayon.css](https://riccardoscalco.it/crayon/): list of css variables linking color names to hexadecimal values, usable with postCSS or with your favourite CSS    preprocessor
 
 7.[Pushy Buttons](https://iraul.github.io/pushy-buttons/):A small CSS Pressable Buttons library.
 
