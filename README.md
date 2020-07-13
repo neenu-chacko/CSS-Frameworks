@@ -23,7 +23,8 @@ Some cool CSS I've come across
 ## 6. [Hover.css](http://ianlunn.github.io/Hover/): For Hover Transitions
 --> [Github Link](https://github.com/IanLunn/Hover)
 
-<Add a example GIF here rama>
+  ![](hover.gif)
+
   
 ## 7. [Animate.css](https://animate.style/): Just Animate Stuff
 
