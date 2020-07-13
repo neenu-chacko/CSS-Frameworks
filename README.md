@@ -68,9 +68,17 @@ Some cool CSS I've come across
 ## 17. [voxel.css]():  A lightweight 3D CSS voxel library.
 < add gif >
 
-## 18. 
+## 18. [Markdown.css](https://mrcoles.com/demo/markdown-css/): CSS for making regular HTML look like plain-text markdown.
 
+![Screen Shot 2020-07-13 at 4 28 35 PM](https://user-images.githubusercontent.com/45137335/87297383-f7330800-c525-11ea-8c53-a4475c79171d.png)
 
+## 19. [CSSPIN](https://webkul.github.io/csspin/)
+<sst ntelm addamo>
+   
+## 20. [Toggles.css](https://jnkkkk.github.io/MoreToggles.css/):   A Pure CSS library that provides you with stylish toggles.
+
+<ivdem pls>
+   
 
 
 
@@ -87,6 +95,13 @@ Some cool CSS I've come across
 4.[Instagram.css](https://picturepan2.github.io/instagram.css/) - Complete set of Instagram filters in pure CSS
 
 5.[Imagehover.css](http://imagehover.io/): Pure CSS Image Hover Effect Library
+
+6.[Crayon.css](https://riccardoscalco.it/crayon/): 
+
+7.[Pushy Buttons](https://iraul.github.io/pushy-buttons/):A small CSS Pressable Buttons library.
+
+![Screen Shot 2020-07-13 at 4 40 32 PM](https://user-images.githubusercontent.com/45137335/87298376-b6d48980-c527-11ea-9133-8a83d69ece12.png)
+
 
 Also CheckOut:
 
