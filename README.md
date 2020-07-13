@@ -31,7 +31,7 @@ Some cool CSS I've come across
 ## 8. [SpinKit](https://tobiasahlin.com/spinkit/): For some cool loading pages  
 --> [Github Link](https://github.com/tobiasahlin/SpinKit)
 
-< ivdem add a bideo>
+<ivdem add a bideo>
 ## 9. [Effeckt.css](https://h5bp.org/Effeckt.css/): Some transitions
 <hehehehe again>
 
@@ -81,13 +81,14 @@ Some cool CSS I've come across
 
 
 
-## EXTRA 5%
+## An EXTRA 5%
+
 
 1.[basscss](https://basscss.com/) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 
 2.[Balloon.css](https://kazzkiq.github.io/balloon.css/) - Simple tooltips made of pure CSS
 
-3.[Icono] (https://saeedalipoor.github.io/icono/): Pure CSS Icons
+3.[Icono](https://saeedalipoor.github.io/icono/): Pure CSS Icons
 
 4.[Instagram.css](https://picturepan2.github.io/instagram.css/) - Complete set of Instagram filters in pure CSS
 
