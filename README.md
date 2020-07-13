@@ -12,7 +12,7 @@ Some cool CSS I've come across
 
 ## 3. [Block CSS](https://thesephist.github.io/blocks.css/) : For that blockiness in your UI
 
-
+![Screen Shot 2020-07-13 at 2 54 26 PM](https://user-images.githubusercontent.com/45137335/87288302-cbf5ec00-c518-11ea-9673-e1e0dd377562.png)
 
 ## 4. [NES.css](https://nostalgic-css.github.io/NES.css/): The Nostalgic,Retro CSS
 
@@ -44,4 +44,39 @@ Some cool CSS I've come across
 ## 11. [Primer CSS](https://primer.style/)
 
 ![Screen Shot 2020-07-13 at 12 07 54 PM](https://user-images.githubusercontent.com/45137335/87278758-d907e080-c502-11ea-8c28-86cbbcf267f9.png)
+
+## 12. [Hint.css](https://kushagra.dev/lab/hint/): For Tooltips
+
+< aa hover sanm gif >
+
+## 13. [css.gg](https://css.gg/): Open-source CSS, SVG and Figma UI Icons
+
+![Screen Shot 2020-07-13 at 3 46 07 PM](https://user-images.githubusercontent.com/45137335/87293491-03b46200-c520-11ea-8a81-b0f94959da94.png)
+
+## 14. [98.css](https://jdan.github.io/98.css/): A design system for building faithful recreations of old UIs
+
+![Screen Shot 2020-07-13 at 3 53 11 PM](https://user-images.githubusercontent.com/45137335/87294251-14b1a300-c521-11ea-8d04-c05781f51685.png)
+
+## 15.[ The Simpsons in CSS ](http://pattle.github.io/simpsons-in-css/)
+
+![Screen Shot 2020-07-13 at 4 00 00 PM](https://user-images.githubusercontent.com/45137335/87294877-01530780-c522-11ea-8cb3-c66ba7323f9e.png)
+
+
+
+
+
+## EXTRA 5%
+
+1.[basscss](https://basscss.com/) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
+
+2.[Balloon.css](https://kazzkiq.github.io/balloon.css/) - Simple tooltips made of pure CSS
+
+
+
+
+
+
+
+
+
 
