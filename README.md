@@ -25,60 +25,65 @@ Some cool CSS I've come across
 
   ![](hover.gif)
 
-  
-## 7. [Animate.css](https://animate.style/): Just Animate Stuff
+## 7. [voxel.css](http://voxelcss.com/):  A lightweight 3D CSS voxel library.
 
-<Ivdem add the GIF Kutta>
+![](voxel.gif)
+
   
-## 8. [SpinKit](https://tobiasahlin.com/spinkit/): For some cool loading pages  
+## 8. [Animate.css](https://animate.style/): Just Animate Stuff
+
+ ![](animate.gif)
+  
+## 9. [SpinKit](https://tobiasahlin.com/spinkit/): For some cool loading pages  
 --> [Github Link](https://github.com/tobiasahlin/SpinKit)
 
-<ivdem add a bideo>
+![](spinkit.gif)
 
-## 9. [Effeckt.css](https://h5bp.org/Effeckt.css/): Some transitions
-<hehehehe again>
+## 10. [Effeckt.css](https://h5bp.org/Effeckt.css/): Some transitions
 
-## 10. [Loaders.css](https://connoratherton.com/loaders): Delightful and performance-focused pure css loading animations.
-  <aa pacman last session gif aakkam>
+![](effekct.gif)
 
-## 11. [Primer CSS](https://primer.style/)
+## 11. [Loaders.css](https://connoratherton.com/loaders): Delightful and performance-focused pure css loading animations.
+
+![](loaders.gif)
+
+## 12. [Primer CSS](https://primer.style/)
 
 <img src="https://user-images.githubusercontent.com/45137335/87278758-d907e080-c502-11ea-8c28-86cbbcf267f9.png" width="600px" height="auto"/>
 
-## 12. [Hint.css](https://kushagra.dev/lab/hint/): For Tooltips
+## 13. [Hint.css](https://kushagra.dev/lab/hint/): For Tooltips
 
-< aa hover sanm gif >
+![](hint.gif)
 
-## 13. [css.gg](https://css.gg/): Open-source CSS, SVG and Figma UI Icons
+## 14. [css.gg](https://css.gg/): Open-source CSS, SVG and Figma UI Icons
 
 ![Screen Shot 2020-07-13 at 3 46 07 PM](https://user-images.githubusercontent.com/45137335/87293491-03b46200-c520-11ea-8a81-b0f94959da94.png)
 
-## 14. [98.css](https://jdan.github.io/98.css/): A design system for building faithful recreations of old UIs
+## 15. [98.css](https://jdan.github.io/98.css/): A design system for building faithful recreations of old UIs
 
 ![Screen Shot 2020-07-13 at 3 53 11 PM](https://user-images.githubusercontent.com/45137335/87294251-14b1a300-c521-11ea-8d04-c05781f51685.png)
 
-## 15.[ The Simpsons in CSS ](http://pattle.github.io/simpsons-in-css/)
+## 16.[ The Simpsons in CSS ](http://pattle.github.io/simpsons-in-css/)
 
 ![Screen Shot 2020-07-13 at 4 00 00 PM](https://user-images.githubusercontent.com/45137335/87294877-01530780-c522-11ea-8cb3-c66ba7323f9e.png)
 
-## 16. [ CSS SHAKE ](https://elrumordelaluz.github.io/csshake/) : Some CSS classes to move your DOM!
+## 17. [ CSS SHAKE ](https://elrumordelaluz.github.io/csshake/) : Some CSS classes to move your DOM!
 
 ![Screen Shot 2020-07-13 at 4 04 28 PM](https://user-images.githubusercontent.com/45137335/87295259-8fc78900-c522-11ea-87c5-459da0962ca7.png)
 
-## 17. [voxel.css](http://voxelcss.com/):  A lightweight 3D CSS voxel library.
 
-<add gif>
 
 ## 18. [Markdown.css](https://mrcoles.com/demo/markdown-css/): CSS for making regular HTML look like plain-text markdown.
 
 ![Screen Shot 2020-07-13 at 4 28 35 PM](https://user-images.githubusercontent.com/45137335/87297383-f7330800-c525-11ea-8c53-a4475c79171d.png)
 
 ## 19. [CSSPIN](https://webkul.github.io/csspin/)
-<sst ntelm addamo>
+
+![](csspin.gif)
    
 ## 20. [Toggles.css](https://jnkkkk.github.io/MoreToggles.css/):   A Pure CSS library that provides you with stylish toggles.
 
-<ivdem pls>
+![](toggle.gif)
    
 
 
