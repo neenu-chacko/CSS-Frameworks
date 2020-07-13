@@ -57,7 +57,7 @@ Some cool CSS I've come across
 
 ## 14. [css.gg](https://css.gg/): Open-source CSS, SVG and Figma UI Icons
 
-![Screen Shot 2020-07-13 at 3 46 07 PM](https://user-images.githubusercontent.com/45137335/87293491-03b46200-c520-11ea-8a81-b0f94959da94.png)
+![Screen Shot 2020-07-13 at 10 09 48 PM](https://user-images.githubusercontent.com/45137335/87330066-a2a78100-c555-11ea-8b2f-cd1ce0c7483c.png)
 
 ## 15. [98.css](https://jdan.github.io/98.css/): A design system for building faithful recreations of old UIs
 
