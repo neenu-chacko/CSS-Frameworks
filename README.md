@@ -8,7 +8,7 @@ Some cool CSS I've come across
 
 ## 2. [RPGUI](http://ronenness.github.io/RPGUI/): The GameArt UI
 
-![screenshot](https://user-images.githubusercontent.com/45137335/87273085-ccc95680-c4f5-11ea-9a70-76d1ef713297.jpg)
+![Screen Shot 2020-07-13 at 11 30 56 AM](https://user-images.githubusercontent.com/45137335/87275770-76134b00-c4fc-11ea-95af-c62ce0897cf8.png)
 
 ## 3. Block CSS :
 
