@@ -38,7 +38,7 @@ Some cool CSS I've come across
 <hehehehe again>
 
 ## 10. [Loaders.css](https://connoratherton.com/loaders): Delightful and performance-focused pure css loading animations.
-< aa pacman last session gif aakkam>
+  <aa pacman last session gif aakkam>
 
 ## 11. [Primer CSS](https://primer.style/)
 
