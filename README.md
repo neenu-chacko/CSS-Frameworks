@@ -61,6 +61,17 @@ Some cool CSS I've come across
 
 ![Screen Shot 2020-07-13 at 4 00 00 PM](https://user-images.githubusercontent.com/45137335/87294877-01530780-c522-11ea-8cb3-c66ba7323f9e.png)
 
+## 16. [ CSS SHAKE ](https://elrumordelaluz.github.io/csshake/) : Some CSS classes to move your DOM!
+
+![Screen Shot 2020-07-13 at 4 04 28 PM](https://user-images.githubusercontent.com/45137335/87295259-8fc78900-c522-11ea-87c5-459da0962ca7.png)
+
+## 17. [voxel.css]():  A lightweight 3D CSS voxel library.
+< add gif >
+
+## 18. 
+
+
+
 
 
 
@@ -71,10 +82,17 @@ Some cool CSS I've come across
 
 2.[Balloon.css](https://kazzkiq.github.io/balloon.css/) - Simple tooltips made of pure CSS
 
+3.[Icono] (https://saeedalipoor.github.io/icono/): Pure CSS Icons
 
+4.[Instagram.css](https://picturepan2.github.io/instagram.css/) - Complete set of Instagram filters in pure CSS
 
+5.[Imagehover.css](http://imagehover.io/): Pure CSS Image Hover Effect Library
 
+Also CheckOut:
 
+https://github.com/troxler/awesome-css-frameworks
+
+https://github.com/uhub/awesome-css
 
 
 
