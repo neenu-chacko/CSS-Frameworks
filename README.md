@@ -84,7 +84,14 @@ Some cool CSS I've come across
 ## 20. [Toggles.css](https://jnkkkk.github.io/MoreToggles.css/):   A Pure CSS library that provides you with stylish toggles.
 
 ![](toggle.gif)
-   
+
+## 21. [Terminal CSS](https://terminalcss.xyz/) : A modern and minimal CSS framework for terminal lovers.
+
+![Screen Shot 2020-07-15 at 9 05 08 PM](https://user-images.githubusercontent.com/45137335/87565382-3062a800-c6df-11ea-818d-4116063bedff.png)
+
+## 22. [Tufte CSS](https://edwardtufte.github.io/tufte-css/): Style web articles using the ideas demonstrated by Edward Tufte’s books and handouts.
+
+![Screen Shot 2020-07-15 at 9 12 49 PM](https://user-images.githubusercontent.com/45137335/87566143-34db9080-c6e0-11ea-9a3e-168f362426dc.png)
 
 
 
@@ -113,6 +120,7 @@ Some cool CSS I've come across
 
 ![Screen Shot 2020-07-13 at 4 40 32 PM](https://user-images.githubusercontent.com/45137335/87298376-b6d48980-c527-11ea-9133-8a83d69ece12.png)
 
+8. [Silon](https://silon.slaks.net/#gates): Adders and Logic Gates in Pure CSS
 
 Also CheckOut:
 
