@@ -129,6 +129,13 @@ https://github.com/troxler/awesome-css-frameworks
 https://github.com/uhub/awesome-css
 
 
+The normal Frameworks
 
+1.[Bootstrap](https://getbootstrap.com/)
+2.[Foundation](https://get.foundation/)
+3.[Materialize CSS](https://materializecss.com/)
+4.[Bulma](https://bulma.io/)
+5.[Semantic UI](https://semantic-ui.com/)
+6.[UIKit](https://getuikit.com/)
 
 
