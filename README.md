@@ -95,6 +95,8 @@ Some cool CSS I've come across
 
 ## 23. [pure.css](https://purecss.io/)
 [![Pure](https://cloud.githubusercontent.com/assets/449779/5291099/1b554cca-7b03-11e4-9157-53a12d91b34a.png)][Pure]
+A set of small, responsive CSS modules that you can use in every web project.
+[http://purecss.io/][Pure]
 
 
 
